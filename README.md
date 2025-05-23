@@ -1,17 +1,17 @@
 # Coffee Espresso
 
-Kullanıcıların günün herhangi bir zamanında en hızlı en lezzetli kahveye ulaşmaları için oluşturulmuş bir coffee sitesidir.
+It is a coffee site created for users to access the fastest and most delicious coffee at any time of the day.
 
-Bu site reposive'ui sahiptir.
+This site has repository.
 
-İconlar ve hover efektleri kullanılmıştır.
+Icons and hover effects are used.
 
-# Kullanılan Teknolojiler
+# Teknologies Used
 
 - Html
 
 - Css
 
-# Ekran Görüntüsü
+# ScreenShot
 
 <img src="coffee-espresso.gif" />
